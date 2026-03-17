@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-Software Engineer • Full Stack Developer • SWE Intern @ NS Apps Innovations
+Software Engineer • Full Stack Developer • Intern @ NS Apps Innovations
 </h3>
 
 
