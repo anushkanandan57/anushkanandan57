@@ -83,7 +83,7 @@ Software Engineer • Full Stack Developer • Intern @ NS Apps Innovations
 
 <p align="center">
   
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anushkanandan57&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anushkanandan57&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149" />
 
 </p>
 
