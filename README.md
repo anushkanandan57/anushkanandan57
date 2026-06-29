@@ -47,10 +47,6 @@ Software Engineer • Full Stack Developer • Intern @ NS Apps Innovations
 <img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
 
-<a href="https://anushkanandanportfolio.netlify.app/">
-<img src="https://skillicons.dev/icons?i=vercel"/>
-</a>
-
 </p>
 
 ---
